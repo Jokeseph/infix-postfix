@@ -1,0 +1,26 @@
+Current infix string: 5 + 3
+Postfix string: 53+
+It evaluates to 8.
+
+
+Current infix string: 8 * 2 - 1
+Postfix string: 82*1-
+It evaluates to 15.
+
+
+Current infix string: 9 / 3 + 2 * 8 + 3
+Postfix string: 93/28*+3+
+It evaluates to 22.
+
+
+Current infix string: 4 * ( 2 - 7 ) + 3
+Postfix string: 427-*3+
+It evaluates to -17.
+
+
+Current infix string: ( 3 * 6
+WARNING: Missing right parenthesis.
+
+
+Current infix string: 2 - 5 / 2 )
+WARNING: Missing left parenthesis.
